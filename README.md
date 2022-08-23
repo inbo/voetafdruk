@@ -1,4 +1,4 @@
-### Resultaten biodiversiteitsvoetafdruk
+# Resultaten biodiversiteitsvoetafdruk
 
 ## Interactieve stroomdiagrammen impactfactoren
 
