@@ -1,6 +1,6 @@
 # De impact van Vlaanderen op de biodiversiteit in de wereld: op zoek naar indicatoren
 
-## Resultaten biodiversiteitsvoetafdruk
+## Resultaten
 
 ### Interactieve stroomdiagrammen impactfactoren
 
