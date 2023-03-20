@@ -3,8 +3,8 @@
 ## Interactieve stroomdiagrammen impactfactoren
 
 1. [Ontbossing in de tropen](https://inbo.github.io/voetafdruk/sankey_defor.html)
-2. [Landgebruik](https://inbo.github.io/voetafdruk/sankey_defor.html)
-3. [Soortenverlies (pdf)](https://inbo.github.io/voetafdruk/sankey_defor.html)
+2. [Landgebruik](https://inbo.github.io/voetafdruk/sankey_lu.html)
+3. [Soortenverlies (pdf)](https://inbo.github.io/voetafdruk/sankey_pdf.html)
 
 ## Interactieve kaart impactfactoren
 
