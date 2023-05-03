@@ -12,7 +12,7 @@
 
 ## Tabel bedrijfstakken en productgroepen
 
-[Tabel 1](https://inbo.github.io/voetafdruk/Tabel3_bedrijfstakken_productgroepen.xlsx)
+[Tabel 3](https://inbo.github.io/voetafdruk/Tabel3_bedrijfstakken_productgroepen.xlsx)
 
 
 Contact: [Katrijn Alaerts](Katrijn.Alaerts@inbo.be) & [Maarten Stevens](Maarten.Stevens@inbo.be)
