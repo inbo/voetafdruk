@@ -1,18 +1,8 @@
 # De impact van Vlaanderen op de biodiversiteit in de wereld: op zoek naar indicatoren
 
-## Interactieve stroomdiagrammen impactfactoren
+## Voorbeeldindicatoren stuurgroep
+* [Landgebruik algemeen](https://inbo.github.io/voetafdruk/voetafdruk_landgebruik_algemeen.html)
+* [Landgebruik landen en sectoren](https://inbo.github.io/voetafdruk/voetafdruk_landgebruik_land_sector.html)
+* [Landgebruik metadata](https://inbo.github.io/voetafdruk/metadata_voetafdruk_land_sector.html)
 
-1. [Ontbossing in de tropen](https://inbo.github.io/voetafdruk/sankey_defor.html)
-2. [Landgebruik](https://inbo.github.io/voetafdruk/sankey_lu.html)
-3. [Soortenverlies (pdf)](https://inbo.github.io/voetafdruk/sankey_pdf.html)
-
-## Interactieve kaart impactfactoren
-
-[Kaart - selecteer een drukfactor recht bovenaan](https://inbo.github.io/voetafdruk/kaarten.html)
-
-## Tabel bedrijfstakken en productgroepen
-
-[Tabel 3](https://inbo.github.io/voetafdruk/Tabel3_bedrijfstakken_productgroepen.xlsx)
-
-
-Contact: [Katrijn Alaerts](Katrijn.Alaerts@inbo.be) & [Maarten Stevens](Maarten.Stevens@inbo.be)
+Contact: [Katrijn Alaerts](Katrijn.Alaerts@inbo.be)
