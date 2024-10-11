@@ -4,5 +4,6 @@
 * [Landgebruik algemeen](https://inbo.github.io/voetafdruk/voetafdruk_landgebruik_algemeen.html)
 * [Landgebruik landen en sectoren](https://inbo.github.io/voetafdruk/voetafdruk_landgebruik_land_sector.html)
 * [Landgebruik metadata](https://inbo.github.io/voetafdruk/metadata_voetafdruk_land_sector.html)
+* [Ontbossing algemeen](https://inbo.github.io/voetafdruk/voetafdruk_ontbossing_algemeen.html)
 
 Contact: [Katrijn Alaerts](Katrijn.Alaerts@inbo.be)
